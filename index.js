@@ -40,7 +40,7 @@ function addThree() {
 //
 
 function nextQuarter() {
-    next += 1;
+    next += 1
     qtrEL.textContent = next
 }
 
