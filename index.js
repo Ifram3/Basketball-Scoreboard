@@ -50,4 +50,7 @@ function fresh() {
     qtrEL.textContent = 0
     pointEL.textContent = 0
     countEL.textContent = 0
+    next = 0
+    point = 0
+    count = 0
 }
